@@ -1,0 +1,70 @@
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.AssemblyInfoInputs.cache
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.AssemblyInfo.cs
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.csproj.CoreCompileInputs.cache
+E:\Cours\ESI 2023-2025\C#\choco\bin\Debug\net6.0\choco.exe
+E:\Cours\ESI 2023-2025\C#\choco\bin\Debug\net6.0\choco.deps.json
+E:\Cours\ESI 2023-2025\C#\choco\bin\Debug\net6.0\choco.runtimeconfig.json
+E:\Cours\ESI 2023-2025\C#\choco\bin\Debug\net6.0\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco\bin\Debug\net6.0\choco.pdb
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\refint\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.pdb
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\choco.genruntimeconfig.cache
+E:\Cours\ESI 2023-2025\C#\choco\obj\Debug\net6.0\ref\choco.dll
+C:\Users\flaud\Desktop\choco\bin\Debug\net6.0\choco.exe
+C:\Users\flaud\Desktop\choco\bin\Debug\net6.0\choco.deps.json
+C:\Users\flaud\Desktop\choco\bin\Debug\net6.0\choco.runtimeconfig.json
+C:\Users\flaud\Desktop\choco\bin\Debug\net6.0\choco.dll
+C:\Users\flaud\Desktop\choco\bin\Debug\net6.0\choco.pdb
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.AssemblyInfoInputs.cache
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.AssemblyInfo.cs
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.csproj.CoreCompileInputs.cache
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.dll
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\refint\choco.dll
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.pdb
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\choco.genruntimeconfig.cache
+C:\Users\flaud\Desktop\choco\obj\Debug\net6.0\ref\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco version final\bin\Debug\net6.0\choco.exe
+E:\Cours\ESI 2023-2025\C#\choco version final\bin\Debug\net6.0\choco.deps.json
+E:\Cours\ESI 2023-2025\C#\choco version final\bin\Debug\net6.0\choco.runtimeconfig.json
+E:\Cours\ESI 2023-2025\C#\choco version final\bin\Debug\net6.0\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco version final\bin\Debug\net6.0\choco.pdb
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.AssemblyInfoInputs.cache
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.AssemblyInfo.cs
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.csproj.CoreCompileInputs.cache
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\refint\choco.dll
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.pdb
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\choco.genruntimeconfig.cache
+E:\Cours\ESI 2023-2025\C#\choco version final\obj\Debug\net6.0\ref\choco.dll
+C:\Users\flaud\Desktop\choco version final\bin\Debug\net6.0\choco.exe
+C:\Users\flaud\Desktop\choco version final\bin\Debug\net6.0\choco.deps.json
+C:\Users\flaud\Desktop\choco version final\bin\Debug\net6.0\choco.runtimeconfig.json
+C:\Users\flaud\Desktop\choco version final\bin\Debug\net6.0\choco.dll
+C:\Users\flaud\Desktop\choco version final\bin\Debug\net6.0\choco.pdb
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.AssemblyInfoInputs.cache
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.AssemblyInfo.cs
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.csproj.CoreCompileInputs.cache
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.dll
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\refint\choco.dll
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.pdb
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\choco.genruntimeconfig.cache
+C:\Users\flaud\Desktop\choco version final\obj\Debug\net6.0\ref\choco.dll
+C:\Users\flaud\Desktop\choco version finale\bin\Debug\net6.0\choco.exe
+C:\Users\flaud\Desktop\choco version finale\bin\Debug\net6.0\choco.deps.json
+C:\Users\flaud\Desktop\choco version finale\bin\Debug\net6.0\choco.runtimeconfig.json
+C:\Users\flaud\Desktop\choco version finale\bin\Debug\net6.0\choco.dll
+C:\Users\flaud\Desktop\choco version finale\bin\Debug\net6.0\choco.pdb
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.AssemblyInfoInputs.cache
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.AssemblyInfo.cs
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.csproj.CoreCompileInputs.cache
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.dll
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\refint\choco.dll
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.pdb
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\choco.genruntimeconfig.cache
+C:\Users\flaud\Desktop\choco version finale\obj\Debug\net6.0\ref\choco.dll
